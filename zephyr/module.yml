@@ -1,0 +1,4 @@
+name: zmk-keyboard-klon
+build:
+  settings:
+    board_root: .
