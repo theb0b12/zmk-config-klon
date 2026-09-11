@@ -25,9 +25,6 @@
     };
 };
 
-&matrix_transform0 {
-    row-offset = <4>;
-};
 
 &physical_layout_klon {
     kscan = <&kscan0>;
