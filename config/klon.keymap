@@ -55,7 +55,7 @@
 
         par1 {
             bindings = <&kp LEFT_PARENTHESIS>;
-            key-positions = <3 2>;
+            key-positions = <3 4>;
             layers = <0>;
         };
 
